@@ -54,3 +54,5 @@ Ajuste v10: todos os botões e o formulário de WhatsApp foram direcionados para
 Ajuste v11: o formulário agora monta a mensagem de WhatsApp com a mensagem padrão do atendimento e, abaixo, os dados preenchidos pelo cliente de forma organizada. O WhatsApp abre com o texto pronto para envio.
 
 Ajuste v12: incluído botão discreto de retorno ao topo e substituído o texto institucional do rodapé por “Atendimento Previdenciário. Gabriel Deble, OAB/RS 130.351.”
+
+Ajuste pontual sobre a versão publicada/base v12: mantido integralmente o padrão visual/design do pacote enviado; alteradas apenas a frase de experiência indicada e a resposta do FAQ sobre atendimento presencial/remoto.
